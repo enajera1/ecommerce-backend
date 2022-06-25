@@ -5,3 +5,6 @@ This is a back end for an e-commerce website. This application uses Express.js a
 
 ## Installation
 After cloning the repo, you will need to install Node.js, Sequelize and Express.js. Then you should connect to the database and seed the info. Once seeded, ocnnect to the server using `npm start`.
+
+## Demo Video 
+https://drive.google.com/file/d/1qdCGbDddKVLyNYD-Q1PjiOxww5gPwmV4/view
